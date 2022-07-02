@@ -1,0 +1,25 @@
+.spinner {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  
+}
+
+.wrapper {
+    padding: 30px;
+}
+
+.titleContainer {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.pagination {
+    margin-top: 20px;
+}
+
+.filters {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
